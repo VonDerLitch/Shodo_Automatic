@@ -4,8 +4,6 @@ import sys
 import time
 import subprocess
 import os
-from tkinter import *
-"Janela para esconder o terminal"
 'win64'
 sys.platform
 "Executar o programa Shodo 1.1.2"
